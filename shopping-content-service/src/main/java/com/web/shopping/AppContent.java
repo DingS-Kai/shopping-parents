@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.web.shopping.mapper")
 public class AppContent {
 	//dingpk
+    //dingpk
 	public static void main(String[] args) {
 		SpringApplication.run(AppContent.class, args);
 	}
