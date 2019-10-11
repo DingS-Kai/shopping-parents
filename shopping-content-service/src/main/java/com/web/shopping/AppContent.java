@@ -10,7 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AppContent {
 	//dingpk
     //dingpk
-	//hhdddddddddddddd
+	//hhddddddd
+	//iniser
 	public static void main(String[] args) {
 		SpringApplication.run(AppContent.class, args);
 	}
