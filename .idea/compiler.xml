@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopping-manager-service" />
+        <module name="shopping-content-service" />
+        <module name="shopping-mapper" />
+        <module name="shopping-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopping-content-service" target="1.8" />
+      <module name="shopping-manager-service" target="1.8" />
+      <module name="shopping-mapper" target="1.8" />
+      <module name="shopping-parents" target="1.8" />
+      <module name="shopping-pojo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shopping-content-service" options="-parameters" />
+      <module name="shopping-manager-service" options="-parameters" />
+      <module name="shopping-mapper" options="-parameters" />
+      <module name="shopping-pojo" options="-parameters" />
+    </option>
+  </component>
+</project>

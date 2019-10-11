@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopping-content-service/shopping-content-service.iml" filepath="$PROJECT_DIR$/shopping-content-service/shopping-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-manager-service/shopping-manager-service.iml" filepath="$PROJECT_DIR$/shopping-manager-service/shopping-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-mapper/shopping-mapper.iml" filepath="$PROJECT_DIR$/shopping-mapper/shopping-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-parents.iml" filepath="$PROJECT_DIR$/shopping-parents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-pojo/shopping-pojo.iml" filepath="$PROJECT_DIR$/shopping-pojo/shopping-pojo.iml" />
+    </modules>
+  </component>
+</project>
